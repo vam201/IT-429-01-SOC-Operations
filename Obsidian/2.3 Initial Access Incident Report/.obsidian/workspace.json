@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.3 Initial Access Incident Report.md",
+                "file": "Playbook README Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3 Initial Access Incident Report"
+              "title": "Playbook README Template"
             }
           }
         ]
@@ -160,13 +160,14 @@
   },
   "active": "40c40b886be58ed9",
   "lastOpenFiles": [
+    "3.2 Build a Playbook.md",
+    "Playbook README Template.md",
     "Incident Report Template.md",
     "2.3 Initial Access Incident Report.md",
     "Welcome.md",
     "attachments/Incident Report Template.md",
     "attachments",
     "New folder",
-    "Untitled.md",
     "Untitled 1.md"
   ]
 }
